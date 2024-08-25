@@ -1,6 +1,10 @@
 # TrackEye Vision: Motion Detection with OpenCV
 
+<<<<<<< HEAD
 ![TrackEye Vision Logo](aippic.webp) <!-- Replace with the correct path if it's in a subfolder -->
+=======
+![TrackEye Vision Animation](path_to_animation.gif) <!-- Replace with the path to your animation GIF -->
+>>>>>>> d87cd13d63ad74f8e7b598ddd4d2c4d884a2f6f8
 
 ## Project Overview
 
@@ -57,3 +61,7 @@
 
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d87cd13d63ad74f8e7b598ddd4d2c4d884a2f6f8
