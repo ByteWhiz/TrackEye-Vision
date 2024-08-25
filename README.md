@@ -1,7 +1,6 @@
 # TrackEye Vision: Motion Detection with OpenCV
 
-![TrackEye Vision Logo](aippic.webp) <!-- Replace with the correct path if it's in a subfolder -->
-
+<img src="aippic.webp" alt="TrackEye Vision Logo" width="300"/>
 ## Project Overview
 
 **TrackEye Vision** is a Python-based motion detection system leveraging OpenCV, designed to enhance security and monitoring capabilities. The application captures video from a webcam, detects motion, and records video clips only when movement is detected. The system is optimized for various surveillance scenarios, including home security and vehicle monitoring. Future enhancements will include sending SMS alerts for suspicious movements and integrating a database to track numbers detected near specific areas. Powered by solar energy, TrackEye Vision is an eco-friendly solution ideal for remote or off-grid deployment.
